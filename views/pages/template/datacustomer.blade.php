@@ -1,0 +1,1 @@
+<p> {{ TableHelpers::grid('customer')}} </p>
